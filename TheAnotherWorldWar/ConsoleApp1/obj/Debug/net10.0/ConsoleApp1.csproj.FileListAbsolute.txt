@@ -1,0 +1,56 @@
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Timur\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Timur\Desktop\ConsoleApp1 — копия\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
