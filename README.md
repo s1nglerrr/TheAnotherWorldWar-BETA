@@ -1,4 +1,4 @@
-# The Another World War - Beta
+# The Another World War - BETA
 
 ## Обзор
 
